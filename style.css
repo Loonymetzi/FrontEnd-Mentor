@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+img{
+    height: 270px;
+    width: 270px;
+    margin: auto;
+    border-radius: 10px;
+}
+h2{
+    color: hsl(218, 44%, 22%);
+    padding: 5px;
+    padding-bottom: 0px;
+}
+p{
+    color: hsl(220, 15%, 55%);
+    padding: 5px;
+}
+
+.insides{
+    padding: 10px;
+    font-size: 13px;
+}
+
+.scan-plate{
+    display: block;
+    height: 70%;
+    width: 290px;
+    margin: 150px auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center;
+ }
+.attribution a {
+     color: hsl(228, 45%, 44%);
+ }
